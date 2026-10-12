@@ -16,7 +16,8 @@
 .hero-affiliation{font-size:13px;line-height:1.9;color:var(--ink);max-width:440px;margin:0 0 13px}
 @media(max-width:950px){.header-inner{height:auto;min-height:108px;padding-block:18px;flex-wrap:wrap;gap:14px}.header-identity{width:100%;justify-content:space-between}.university-brand{padding-right:0;border-right:0}nav{width:100%;justify-content:space-between;gap:20px}nav a{padding-block:5px}.hero-affiliation{max-width:560px}}
 @media(max-width:520px){.header-identity{gap:14px}.university-brand img{width:168px}.hero-affiliation{font-size:12px}}
-@media(max-width:380px){.university-brand img{width:143px}.header-identity .brand{font-size:19px}}
+.header-identity .brand-mark{flex-shrink:0}
+@media(max-width:380px){.university-brand img{width:126px}.header-identity .brand{font-size:18px;gap:5px}.header-identity .brand-mark{width:22px;height:22px}}
 .hero-copy,.hero-figure{min-width:0}
 @media(max-width:380px){.header-inner{height:auto;min-height:96px;flex-wrap:wrap;gap:6px;padding-block:14px}nav{width:100%;justify-content:space-between}nav a{padding-block:5px}h1{font-size:54px}.hero-subtitle{font-size:23px}.hero-actions{gap:14px;row-gap:4px}.figure-number{display:none}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
