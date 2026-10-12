@@ -18,6 +18,7 @@ AERIAL Lab 实验室的 GitHub Pages 主页。
 
 ## 文件结构
 
+- `raw_material/`：实验室原始材料，用于后续生成网页内容与素材；原始文件默认仅本地保存，不随网站发布。
 - `index.html`：主页内容与原生折叠交互。
 - `styles.css`：桌面与手机响应式样式。
 - `assets/aerial-lab-aircraft.jpg`：用户提供的实验室照片，经 JPEG 压缩用于网页。
