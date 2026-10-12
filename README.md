@@ -22,6 +22,7 @@ AERIAL Lab 实验室的 GitHub Pages 主页。
 - `styles.css`：桌面与手机响应式样式。
 - `assets/aerial-lab-aircraft.jpg`：用户提供的实验室照片，经 JPEG 压缩用于网页。
 - `assets/favicon.svg`：网站图标。
+- `assets/hfut-logo.png`：合肥工业大学官方校徽与校名组合，保留官网配色。来源：[学校官网标识](https://www.hfut.edu.cn/images/logo-b.png)，参考[工大标识说明](https://www.hfut.edu.cn/xxgk/gdbs.htm)。
 - `.nojekyll`：禁用 Jekyll，直接发布静态文件。
 - `README.md`：项目说明与发布方式。
 - `AGENTS.md`：供后续开发代理使用的维护约定。
